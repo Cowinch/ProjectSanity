@@ -12,8 +12,8 @@ export const categories = [
         image: 'https://i.pinimg.com/236x/03/48/b6/0348b65919fcbe1e4f559dc4feb0ee13.jpg',
     },
     {
-        name: 'websites',
-        image: 'https://i.pinimg.com/750x/66/b1/29/66b1296d36598122e6a4c5452b5a7149.jpg',
+        name: 'video games',
+        image: 'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/most-popular-video-games-of-2022-1642612227.png?crop=0.502xw:1.00xh;0.250xw,0&resize=640:*',
     },
     {
         name: 'photo',
@@ -46,6 +46,10 @@ export const categories = [
     {
         name: 'dogs',
         image: 'https://i.pinimg.com/236x/1b/c8/30/1bc83077e363db1a394bf6a64b071e9f.jpg',
+    },
+    {
+        name: 'beer',
+        image: 'https://www.liquor.com/thmb/-BGrCOgQV6D2UV-qcqFRLHY7uhs=/2037x1471/filters:fill(auto,1)/GettyImages-519728153-7dca4b18c59f4b1fa3654e4d5c9db884.jpg'
     },
     {
         name: 'others',
