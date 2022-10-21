@@ -1,2 +1,5 @@
 cd to backend and type sanity start or sanity manage to launch back end sanity
 cd to frontend and type npm start to launch the webpages
+
+after we make updates to the project, we need to run "npm run build" in the 
+terminal in frontend and then resubmit the build folder
