@@ -134,10 +134,10 @@ const PinDetail = ({ user }) => {
 
                 {/* create comment */}
                 <div className='flex flex-wrap mt-6 gap-3 items-center'>
-                    <Link to={`user-profile/${pinDetail.postedBy?._id}`}>
+                    <Link to={`user-profile/${user?.sub}`}>
                         <img
                             className='w-8 h-8 rounded-full cursor-pointer'
-                            src={pinDetail.postedBy?.image}
+                            src={user?.image}
                             alt="user-profile"
                         />
                     </Link>
