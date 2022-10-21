@@ -1,0 +1,2 @@
+cd to backend and type sanity start or sanity manage to launch back end sanity
+cd to frontend and type npm start to launch the webpages

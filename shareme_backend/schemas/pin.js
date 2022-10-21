@@ -1,4 +1,3 @@
-//userId has lowercase d in one field here and uppercase D in the other. idk why
 export default{
     name: 'pin',
     title: 'Pin',
@@ -11,7 +10,7 @@ export default{
         },
         {
             name: 'about',
-            title: 'about',
+            title: 'About',
             type: 'string'
         },
         {
@@ -34,7 +33,7 @@ export default{
         },
         {
             name: 'userId',
-            title: 'UserID',
+            title: 'UserId',
             type: 'string'
         },
         {
